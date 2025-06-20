@@ -11,13 +11,13 @@ STL file for the bottom plate
 keymap json file for QMK configurator
 
 ## Components:
-2 x Promicro Controllers 
-2 x TRRS Cable Jacks
-1 x TRRS Cable
-2 x PCB boards (Same for each hand, just flipped)
-34 x MX Style Switches
-34 x compatible keycaps
-1 x USBc cable
+- 2 x Promicro Controllers 
+- 2 x TRRS Cable Jacks
+- 1 x TRRS Cable
+- 2 x PCB boards (Same for each hand, just flipped)
+- 34 x MX Style Switches
+- 34 x compatible keycaps
+- 1 x USBc cable
 
 ## Assembly Notes
 - The left handed PCB is the one with the paw print facing up. The right is reversed.
