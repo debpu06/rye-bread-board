@@ -32,7 +32,7 @@ One improvement I would have made to the keyboard is to map the switches on the 
 
 The mappings are as follows:
 RYE BREAD BOARD          FERRIS SWEEP
-B6 F7 F6 F5 F4           F4 F5 F6 F7 B6
-D3 B2 B3 B1 D1           D1 B1 B3 B2 D3
-C6 D7 E6 B4 D0           B5 B4 E6 D7 C6
-         D4 D0                    D0 D4
+B6 F7 F6 F5 F4           F4 F5 F6 F7 B6  
+D3 B2 B3 B1 D1           D1 B1 B3 B2 D3  
+C6 D7 E6 B4 D0           B5 B4 E6 D7 C6  
+         D4 D0                    D0 D4  
