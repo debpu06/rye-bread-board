@@ -20,7 +20,6 @@ keymap json file for QMK configurator
 1 x USBc cable
 
 ## Assembly Notes
-- The STL file has the design for one half of the board. In order to create one for each hand, you can mirror the model on the board and print both simultaneously.
 - The left handed PCB is the one with the paw print facing up. The right is reversed.
 - The microcontroller on the left hand is inverted, right side up for the right hand.
 - It is recommended that the micro controller is not pushed down all the way when soldering to the left hand. If it is pushed down all the way, it will be more difficult to fit thicker USBC cables.
