@@ -3,6 +3,9 @@
 
 The Rye Bread Board is a split ergo mechanical keyboard. Inspired by the Ferris Sweep, it has a similar architecture, with the most notable difference being the fanned out thumb structure. The name Rye Bread comes from the nickname I gave my pup who recently passed. His paw is printed on the PCB.
 
+![image](https://github.com/user-attachments/assets/8c1fd63e-306d-4f27-ae1d-0d76c1001cc1)
+
+
 A writeup of the design choices can be found on my [website](https://www.davidboland.dev/blog/custom-keyboard-build-rye-bread-board). Assembly notes can be found below.
 
 ## Provided In this Repo:
